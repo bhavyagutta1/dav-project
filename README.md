@@ -14,3 +14,12 @@ This project predicts patient risk levels (high/low) based on health indicators 
 - pandas, numpy, matplotlib, seaborn, plotly
 - scikit-learn
 - shap
+Deployment (Render)
+
+This app is deployed on [Render]
+Check out the deployed app:  
+[https://dav-project-1-eapq.onrender.com](https://dav-project-1-eapq.onrender.com)
+
+
+git clone
+https://github.com/bhavyagutta1/dav-project.git
